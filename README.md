@@ -2,7 +2,6 @@
 
 **Authors**: Alessandro Soccol, Marco Cosseddu, Giovanni Murgia, Pietro Cosseddu, Arturo Rodriguez  
 **Institution**: University of Cagliari  
-**Course**: Applied Computer Science and Data Analytics 2022/2023
 
 ## Abstract
 
